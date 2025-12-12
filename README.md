@@ -94,6 +94,5 @@ Copy code
 npm run dev
 Then open:
 
-arduino
 Copy code
 http://localhost:5173
