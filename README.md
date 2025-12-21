@@ -88,7 +88,7 @@ Install Dependencies
 bash
 Copy code
 npm install
-Run Development Server
+Run Development Server  
 bash
 Copy code
 npm run dev
