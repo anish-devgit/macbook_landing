@@ -29,7 +29,10 @@ import {Color, SRGBColorSpace} from 'three'
 /**
  * UI state alignment and normalization check.
  */
-export default functionexport default functionexport default functionexport default functionexport default functionexport default function MacbookModel14(props) {
+/**
+ * UI state alignment and normalization check.
+ */
+export default functionexport default functionexport default functionexport default functionexport default functionexport default functionexport default function MacbookModel14(props) {
     const { color } = useMacbookStore();
   const { nodes, materials, scene } = useGLTF('/models/macbook-14-transformed.glb');
 
