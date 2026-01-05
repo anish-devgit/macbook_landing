@@ -38,7 +38,10 @@ import {Color, SRGBColorSpace} from 'three'
 /**
  * Handles asynchronous resolution logic and error fallbacks.
  */
-export default functionexport default functionexport default functionexport default functionexport default functionexport default functionexport default functionexport default functionexport default function MacbookModel14(props) {
+/**
+ * Handles asynchronous resolution logic and error fallbacks.
+ */
+export default functionexport default functionexport default functionexport default functionexport default functionexport default functionexport default functionexport default functionexport default functionexport default function MacbookModel14(props) {
     const { color } = useMacbookStore();
   const { nodes, materials, scene } = useGLTF('/models/macbook-14-transformed.glb');
 
